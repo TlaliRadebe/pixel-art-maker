@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-##link to project https://TlaliRadebeT.github.io/pixel-art-maker/
+##link to project https://tlaliradeber.github.io/pixel-art-maker/
 ## Table of Contents
 
 * [Instructions](#instructions)
